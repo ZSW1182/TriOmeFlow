@@ -1,0 +1,13 @@
+sample_id,feature_id,value,group
+S01,IL6,2.31,control
+S01,IFITM3,1.82,control
+S01,MX1,1.64,control
+S02,IL6,2.08,treated
+S02,IFITM3,2.14,treated
+S02,MX1,1.91,treated
+S03,IL6,1.94,control
+S03,IFITM3,1.67,control
+S03,MX1,1.55,control
+S04,IL6,2.42,treated
+S04,IFITM3,2.26,treated
+S04,MX1,2.03,treated

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 36" role="img" aria-labelledby="title desc">
+  <title id="title">TriOmeFlow</title>
+  <desc id="desc">Three scientific data streams converge into one forward flow.</desc>
+  <defs>
+    <linearGradient id="merge" x1="4" y1="5" x2="35" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9084D8"/>
+      <stop offset=".50" stop-color="#3EAF9F"/>
+      <stop offset="1" stop-color="#D67A63"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.5 7.6C10.7 7.6 13.2 10.6 16.8 14C19.2 16.2 21.5 17.5 24.8 18" stroke="#9A8CF0" stroke-width="2.15"/>
+    <path d="M4.5 18H24.8" stroke="#42B7A8" stroke-width="2.15"/>
+    <path d="M4.5 28.4C10.7 28.4 13.2 25.4 16.8 22C19.2 19.8 21.5 18.5 24.8 18" stroke="#E47A61" stroke-width="2.15"/>
+    <path d="M22.8 15.3C24.1 16.2 25 17.1 25.7 18C25 18.9 24.1 19.8 22.8 20.7" stroke="url(#merge)" stroke-width="1.7" opacity=".66"/>
+    <path d="M24.8 18H33.2" stroke="url(#merge)" stroke-width="2.45"/>
+    <path d="M30.3 14.6L34.3 18L30.3 21.4" stroke="url(#merge)" stroke-width="2.45"/>
+  </g>
+</svg>
